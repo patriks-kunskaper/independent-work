@@ -5,8 +5,9 @@ A collection of self-directed projects, research notes, and technical exploratio
 
 Content varies: deep dives into specific protocols or mechanisms, field observations, hands-on experiments, and analytical writing. No fixed scope.
 
-**Active learning**
-HTB Academy — SOC Analyst Career Path (in progress)
+**Active learning:**
+
+HTB Academy: SOC Analyst Career Path (in progress)
 CompTIA Security+ (in progress)
 
 Updated regularly as new work and learning progresses.
