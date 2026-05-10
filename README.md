@@ -7,8 +7,8 @@ Content varies: deep dives into specific protocols or mechanisms, field observat
 
 **Active learning:**
 
-HTB Academy: SOC Analyst Career Path (in progress)
-CompTIA Security+ (in progress)
+- HTB Academy: SOC Analyst Career Path (in progress)
+- CompTIA Security+ (in progress)
 
 Updated regularly as new work and learning progresses.
 
