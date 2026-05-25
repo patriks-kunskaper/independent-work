@@ -1,4 +1,5 @@
 Adonis Omsorg — Digital Presence & AI Integration
+
 Engagement: February 2024 – June 2025 (part-time)
 Sector: Elderly care, Stockholm
 Stack: WordPress, Google Business Profile, Google Ads, OpenAI Assistants API, Make.com, DALL-E, LinkedIn
