@@ -36,6 +36,12 @@ All work was delivered on minimal budget.
   - Email alerts configured for failed logins and file changes
   - Scheduled malware and file integrity scans
   - Built-in Wordfence blocklist active for known malicious IP ranges
+  - HTTP to HTTPS redirect enforced at server level
+
+### Internal Operations & File Management
+- Implemented Microsoft 365 and SharePoint from scratch for a company with no existing file management or access control structure
+- Designed folder structure and access permissions to organise internal files and restrict access by role
+- Replaced ad hoc file handling with a managed, access-controlled environment
 
 ### Google Business Profile
 - Built out and actively managed the company's Google Maps presence
@@ -74,6 +80,7 @@ All work was delivered on minimal budget.
 | Inbound leads | Measurable increase in calls; direct contribution to client acquisition |
 | Recruitment | Candidate pipeline exceeded hiring capacity |
 | Stakeholder signaling | Active digital presence supported municipal relationship and passive client allocation |
+| Internal operations | Microsoft 365 and SharePoint deployed from scratch; file structure and access controls designed and implemented |
 
 ---
 
@@ -88,6 +95,7 @@ All work was delivered on minimal budget.
 
 ## Security Notes
 
+- HTTP to HTTPS redirect enforced; all unencrypted traffic rejected at server level
 - Wordfence configured with authentication controls, firewall rules, file scanning, login limits, CAPTCHA, and scheduled scanning
 - xmlrpc.php disabled; file editing via dashboard disabled; version number hidden
 - Strong password policies enforced; MFA introduced on admin accounts
