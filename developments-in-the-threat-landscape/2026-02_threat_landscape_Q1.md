@@ -4,7 +4,7 @@ ENISA, SÄPO, MUST, Omegapoint, CERT-SE, CERT-Polska, Truesec
 About This Document:
 This is a personal synthesis and analysis based on primary source documents reviewed in February 2026. Sources include ENISA ETL 2025, Omegapoint Säkerhetsindex 2026, SÄPO Annual Report 2024, MUST Årsöversikt 2025, OpenAI Threat Report October 2025, CERT-SE Newsletters February 2026, and incident reporting from Truesec and CERT-Polska on the Ghost Blizzard Polish energy infrastructure attack.
 
-1. AI Is an Amplifier, Not a Replacement.
+1. AI Is an Amplifier, Not a Replacement:
 AI is not enabling fundamentally new attack types. It lowers the cost and skill threshold for executing known attacks, generating phishing content faster, automating reconnaissance, and assisting with malware code. The more sophisticated emerging pattern is multi-model chaining, where attackers orchestrate multiple LLMs across different attack phases to evade detection systems tuned to single-tool signatures. The strategic implication is that AI is making existing threats faster and cheaper, not inventing new ones, but the acceleration effect is real and compounding.
 Sources: ENISA ETL 2025, OpenAI Threat Report October 2025
 
